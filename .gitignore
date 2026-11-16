@@ -1,0 +1,12 @@
+.env*
+!.env.example
+.vault-notes*
+backups/
+node_modules/
+__pycache__/
+.DS_Store
+*.sql
+*.sql.gz
+*.tar
+*.tar.gz
+*.zip
